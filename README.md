@@ -35,7 +35,6 @@
 - [Jungle Scout: Amazon Product Finder & Research Tool](https://www.junglescout.com)
 - [SaleHoo](https://www.salehoo.com)
 
-
 ## 精品文章
 - [2019年 越来越火爆的Dropshipping模式](https://zhuanlan.zhihu.com/p/56614058)
 - [做Dropshipping 这些平台可以代替速卖通](https://zhuanlan.zhihu.com/p/95009306)
