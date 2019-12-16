@@ -4,7 +4,7 @@
 - [AliExpress](https://www.aliexpress.com)
 - [eBay](www.ebay.com)
 - [阿里巴巴](www.1688.com)
-- [Alibaba](www.alibaba.com)
+- [Alibaba](https://www.alibaba.com)
 - [淘宝](www.taobao.com)
 - [京东](www.jd.com)
 - [义乌小商品](yiwugo.com)
@@ -27,7 +27,12 @@
 - [Wholesale Central](https://www.wholesalecentral.com)
 - [Worldwide Brands](https://www.worldwidebrands.com)
 
-## Tool
+## Tool Set Hub
+- [Amz123亚马逊卖家网址导航](https://www.amz123.com)
+- [Amz520 - Amazon Shopify SEO一站式跨境卖家网址导航](https://www.amz520.com)
+
+## Cool Tool
+- [Jungle Scout: Amazon Product Finder & Research Tool](https://www.junglescout.com)
 - [SaleHoo](https://www.salehoo.com)
 
 
