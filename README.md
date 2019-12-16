@@ -6,6 +6,7 @@
 - [阿里巴巴](https://www.1688.com)
 - [Alibaba](https://www.alibaba.com)
 - [淘宝](https://www.taobao.com)
+- 拼多多
 - [京东](https://www.jd.com)
 - [义乌小商品](http://www.yiwugo.com)
 - [17网-广州服装批发](https://gz.17zwd.com)
