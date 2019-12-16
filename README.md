@@ -1,4 +1,4 @@
-# DropShipping Knowledge Base
+# DropShipping Knowledge Base for Canada
 
 ## Wholesale Channel
 - [AliExpress](https://www.aliexpress.com)
@@ -38,3 +38,8 @@
 ## 精品文章
 - [2019年 越来越火爆的Dropshipping模式](https://zhuanlan.zhihu.com/p/56614058)
 - [做Dropshipping 这些平台可以代替速卖通](https://zhuanlan.zhihu.com/p/95009306)
+
+## Platform for Canada
+- [Amazon](https://sellercentral.amazon.ca)
+- [Shopify](https://shopify.ca)
+- [Wish](https://merchant.wish.com)
