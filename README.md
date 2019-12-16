@@ -46,4 +46,9 @@
 - [Amazon](https://sellercentral.amazon.ca)
 - [Shopify](https://shopify.ca)
 - [Wish](https://merchant.wish.com)
+- [Walmart](https://seller.walmart.com)
 - [BigCommerce](https://www.bigcommerce.ca)
+- [SquareSpace](https://www.squarespace.com)
+- [Vova - Best Cheap Online Shopping Site](https://www.vova.com)
+- [Etsy - Shop for Handmade gift](https://www.etsy.com/CA)
+
