@@ -30,6 +30,8 @@
 ## Tool Set Hub
 - [Amz123亚马逊卖家网址导航](https://www.amz123.com)
 - [Amz520 - Amazon Shopify SEO一站式跨境卖家网址导航](https://www.amz520.com)
+- [雨果网-跨境电商智能服务平台](https://www.cifnews.com)
+- [跨出去-跨境电商收款服务平台](https://www.kuachuqu.com)
 
 ## Cool Tool
 - [Jungle Scout: Amazon Product Finder & Research Tool](https://www.junglescout.com)
