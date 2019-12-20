@@ -8,6 +8,7 @@
   - Fb Ads: print on demand products 
   - [ShutterStock](https://www.shutterstock.com)
   - [Canva](https://www.canva.com)
+  - Photopea
 + choose 20+ products
 + choose 5+ niche
 + Pic pic pic
