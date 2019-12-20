@@ -9,6 +9,17 @@
   - [ShutterStock](https://www.shutterstock.com)
   - [Canva](https://www.canva.com)
   - Photopea
++ Print On Demond
+  - https://trends.google.com/
+  - https://www.uspto.gov/
+  - https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/home
+  - 4- colors to avoid confusion
+  - background compatible with the colors
+  - don't over spend on the design testing
+  - tshirt, legging, sneaker, jerseys, mug, tumbler (summer)
+  - even local production takes time so make sure of time and quality
+  - always have budget to test new products as they come out every day
+  - Mug: 11 ounce white $16.95
 + choose 20+ products
 + choose 5+ niche
 + Pic pic pic
