@@ -12,7 +12,13 @@
 + choose 20+ products
 + choose 5+ niche
 + Pic pic pic
-+ 3X AliExpress Price
++ Pricing:
+  + 3X $Expense+ or 2.5X $PrintOnDemand + Shipping
+  + FREE SHIPPING will get into listing
+  + use .99 .97 .95
++ Upsell
+  - frontend product pays traffic
+  - 2X $salePrice- ??? 
 + AliExpress
   - 50+ orders
   - 50+ reviews
