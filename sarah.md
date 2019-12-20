@@ -9,7 +9,7 @@
   - [ShutterStock](https://www.shutterstock.com)
   - [Canva](https://www.canva.com)
   - Photopea
-+ Print On Demond
++ Print On Demond [Michael]
   - https://trends.google.com/
   - https://www.uspto.gov/
   - https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/home
@@ -20,6 +20,15 @@
   - even local production takes time so make sure of time and quality
   - always have budget to test new products as they come out every day
   - Mug: 11 ounce white $16.95
+  - check shipping rate for dropshipping
++ Facebook Ads:
+  - limit budget before sales go stable
+  - video and picture
+  - creative and variation
+  - split testing over diff headline and description
+  - on top of diff algorithm changes: 80% budget on working 20% on test; CBO...
+  - understand how the ads learning phase work - fb is learning from your audience
+  - understand & follow data, KPI, focus, follow blueprint, avoid 2nd guess and distraction noice
 + choose 20+ products
 + choose 5+ niche
 + Pic pic pic
