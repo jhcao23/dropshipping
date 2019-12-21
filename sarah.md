@@ -45,3 +45,9 @@
   - 4.5+ score
   - ePacket
  
++ App
+  - [SMART Bundle Upsell](https://apps.shopify.com/smar7-bundle-upsell)
+  - [Free Trust Badge](https://apps.shopify.com/trust-badge)
+  - [Sales Pop Master ‑ Countdown](https://apps.shopify.com/sales-pop-master)
+  - [Discounted Pricing](https://apps.shopify.com/discounted-pricing)
+  - [Spin A Sale](https://apps.shopify.com/spin-a-sale)
