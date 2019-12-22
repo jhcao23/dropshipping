@@ -1,5 +1,8 @@
 # DropShipping Knowledge Base for Canada
 
+## Chapters
+- [Sarah Course Note](sarah.md)
+ 
 ## Wholesale Channel
 - [AliExpress](https://www.aliexpress.com)
 - [eBay](https://www.ebay.ca)
