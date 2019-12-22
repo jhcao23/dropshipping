@@ -1,12 +1,12 @@
 # Sarah Course Note
-
-+ Traffic
-  - fb ad: 4 days campaigne, 2+1 creative ad (testing)/product, 1 camp/product, watch 5.9-5.11
-  - fb pixel: profile: 960x960, 10 images post
-  - google seo: watch 5.12-5.18
-  - instagram influencer
++ Basics
+  - Product should be different from local malls
+  - choose 20+ products
+  - choose 5+ niche
+  - Pic pic pic
+  
 + Filming
-  - 5.6, 5.7[0]
+  - watch 5.6, 5.7
   - window nature light
   - no direct line light
   - adobe cloud 1 app
@@ -14,7 +14,6 @@
   - epidemusicsound.com
   - Premiere Pro CC
  
-+ Product should be different from local malls
 + Design
   - create improve version from successful design 
   - Etsy: first page is high potential of good sale
@@ -24,7 +23,8 @@
   - [Canva](https://www.canva.com)
   - [TeeSpring](https://teespring.com)
   - [Placeit](https://placeit.net)
-  - Photopea
+  - [Photopea](https://www.photopea.com)
+  
 + Print On Demond [Michael]
   - https://trends.google.com/
   - https://www.uspto.gov/
@@ -37,7 +37,13 @@
   - always have budget to test new products as they come out every day
   - Mug: 11 ounce white $16.95
   - check shipping rate for dropshipping
+
++ Traffic
+  - google seo: watch 5.12-5.18
+  - instagram influencer
 + Facebook Ads:
+  - fb ad: 4 days campaigne, 2+1 creative ad (testing)/product, 1 camp/product, watch 5.9-5.11
+  - fb pixel: profile: 960x960, 10 images post
   - limit budget before sales go stable
   - video and picture
   - creative and variation
@@ -45,9 +51,7 @@
   - on top of diff algorithm changes: 80% budget on working 20% on test; CBO...
   - understand how the ads learning phase work - fb is learning from your audience
   - understand & follow data, KPI, focus, follow blueprint, avoid 2nd guess and distraction noice
-+ choose 20+ products
-+ choose 5+ niche
-+ Pic pic pic
+  
 + Pricing:
   + 3X $Expense+ or 2.5X $PrintOnDemand + Shipping
   + FREE SHIPPING will get into listing
@@ -60,6 +64,7 @@
   - 50+ reviews
   - 4.5+ score
   - ePacket
+  
 + Mngt Tool
   - [asana](https://asana.com)
   - [Basecamp](https://basecamp.com)
@@ -67,6 +72,16 @@
   - [List](https://www.thebalancecareers.com/find-freelance-work-online-2072051)
   - [Philippines](https://www.onlinejobs.ph)
   - [fiverr](https://www.fiverr.com)
+
++ Everyday Must Do
+  - Order any products customers have purchased.
+  - Give customers tracking information for orders that have been shipped out.
+  - Reply to any customer support emails.
+  - Analyze your Facebook ads.
+  - Add a new product to your store.
+  - Create an ad for your new product.
+  - If it’s a Monday or Thursday, send out an email newsletter.
+
 + App
   - [SMART Bundle Upsell](https://apps.shopify.com/smar7-bundle-upsell)
   - [Free Trust Badge](https://apps.shopify.com/trust-badge)
