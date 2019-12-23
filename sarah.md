@@ -11,8 +11,8 @@
   - no direct line light
   - adobe cloud 1 app
   - song: no copyright, upbeat, no sad
-  - epidemusicsound.com
-  - Premiere Pro CC
+  - [EpideMusicSound](https://www.epidemicsound.com)
+  - [Premiere Pro CC](https://www.adobe.com/ca/products/premiere.html)
  
 + Design
   - create improve version from successful design 
@@ -26,9 +26,9 @@
   - [Photopea](https://www.photopea.com)
   
 + Print On Demond [Michael]
-  - https://trends.google.com/
-  - https://www.uspto.gov/
-  - https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/home
+  - [Google Trend](https://trends.google.com)
+  - [USA IP](https://www.uspto.gov)
+  - [Canada IP](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/home)
   - 4- colors to avoid confusion
   - background compatible with the colors
   - don't over spend on the design testing
