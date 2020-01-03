@@ -23,7 +23,13 @@
   - [Canva](https://www.canva.com)
   - [TeeSpring](https://teespring.com)
   - [Placeit](https://placeit.net)
-  - [Photopea](https://www.photopea.com)
+  - [Photopea](https://www.photopea.com)  
+  - [RedBubble](https://www.redbubble.com)
+  - [SkillShare](https://www.skillshare.com)
+  - [TeachingGuide](https://www.teachinguide.com)
+  - [OpenShot](https://www.openshot.org)
+  - [ShutterStock](https://www.shutterstock.com)
+  - [Merch On Amazon](https://merch.amazon.com)
   
 + Print On Demond [Michael]
   - [Google Trend](https://trends.google.com)
@@ -72,6 +78,10 @@
   - [List](https://www.thebalancecareers.com/find-freelance-work-online-2072051)
   - [Philippines](https://www.onlinejobs.ph)
   - [fiverr](https://www.fiverr.com)
+  - [Text Broker](https://www.textbroker.com)
+  - [Click Funnels](https://www.clickfunnels.com)
+  - [ShoutCart](https://shoutcart.com)
+  - [Crello](https://crello.com)
 
 + Everyday Must Do
   - Order any products customers have purchased.
