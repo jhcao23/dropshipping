@@ -39,6 +39,7 @@
 
 ## Cool Tool
 - [Jungle Scout: Amazon Product Finder & Research Tool](https://www.junglescout.com)
+- [Jungle Market](https://market.junglescout.com)
 - [SaleHoo](https://www.salehoo.com)
 
 ## 精品文章
