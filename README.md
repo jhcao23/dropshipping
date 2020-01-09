@@ -31,6 +31,26 @@
 - [Wholesale Central](https://www.wholesalecentral.com)
 - [Worldwide Brands](https://www.worldwidebrands.com)
 
+## Desgin
+- [Quirky](https://quirky.com)
+- [款款网](https://www.ttkuan.com)
+-  [穿针引线网](https://www.eeff.net)
+-  [Artik](https://www.artik.com)
+-  [Printful](https://www.printful.com)
+-  [SpreadShirt](https://www.spreadshirt.ca)
+-  [Custom Ink](https://www.customink.com)
+-  [Design Hill](https://www.designhill.com) and [PrintShop](https://www.designhill.com/printshop)
+-  [PoshMark](https://poshmark.com)
+-  [Apliiq](https://www.apliiq.com)
+-  [Print Studio](https://www.printerstudio.com)
+-  [Entripy](https://www.entripy.com)
+-  [Bon Fire](https://www.bonfire.com)
+-  [Tailor Nova](https://tailornova.com)
+-  [CLO](https://www.clo3d.com)
+-  [Browz Wear](https://browzwear.com)
+-  [CALA - Build Fashion Brand](https://www.ca.la)
+-  [How to start a clothing line](https://www.abetterlemonadestand.com/how-to-start-a-clothing-line)
+
 ## Tool Set Hub
 - [Amz123亚马逊卖家网址导航](https://www.amz123.com)
 - [Amz520 - Amazon Shopify SEO一站式跨境卖家网址导航](https://www.amz520.com)
