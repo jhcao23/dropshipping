@@ -36,6 +36,7 @@
 - [款款网](https://www.ttkuan.com)
 -  [穿针引线网](https://www.eeff.net)
 -  [原创猫](http://cmao.cc)
+-  [衣+AI](http://www.rss100.com)
 -  [Artik](https://www.artik.com)
 -  [Printful](https://www.printful.com)
 -  [SpreadShirt](https://www.spreadshirt.ca)
