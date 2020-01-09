@@ -24,7 +24,6 @@
 
 ## DropShipping Vendor
 - [Oberlo](https://www.oberlo.ca)
-- [Printify](https://printify.com)
 - [Importify](https://www.importify.com)
 - [Dropify](https://www.dropified.com)
 - [Doba](https://www.doba.com)
@@ -38,7 +37,6 @@
 -  [原创猫](http://cmao.cc)
 -  [衣+AI](http://www.rss100.com)
 -  [Artik](https://www.artik.com)
--  [Printful](https://www.printful.com)
 -  [SpreadShirt](https://www.spreadshirt.ca)
 -  [Custom Ink](https://www.customink.com)
 -  [Design Hill](https://www.designhill.com) and [PrintShop](https://www.designhill.com/printshop)
@@ -52,6 +50,11 @@
 -  [Browz Wear](https://browzwear.com)
 -  [CALA - Build Fashion Brand](https://www.ca.la)
 -  [How to start a clothing line](https://www.abetterlemonadestand.com/how-to-start-a-clothing-line)
+
+## Print on Demand
+- [Gooten](https://www.gooten.com)
+- [Printful](https://www.printful.com)
+- [Printify](https://printify.com)
 
 ## Tool Set Hub
 - [Amz123亚马逊卖家网址导航](https://www.amz123.com)
