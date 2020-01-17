@@ -2,6 +2,9 @@
 
 ## Chapters
 - [Sarah Course Note](sarah.md)
+
+## 加拿大的
+- [代购和团购与分销](daigou.md)
  
 ## Wholesale Channel
 - [AliExpress](https://www.aliexpress.com)
