@@ -84,3 +84,5 @@
 - [Vova - Best Cheap Online Shopping Site](https://www.vova.com)
 - [Etsy - Shop for Handmade gift](https://www.etsy.com/CA)
 
+## Developer
+- [Shopify ChangeLog](https://developers.shopify.com/changelog)
