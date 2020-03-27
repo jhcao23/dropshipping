@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>复杂体系与生物态增长</title>
-</head>
-<body>
-	<img height="100%" width="100%" src="复杂_生物.svg" />
-</body>
-</html>
