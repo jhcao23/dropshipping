@@ -1,6 +1,6 @@
 # DropShipping Knowledge Base for Canada
 ## Complex
-- [complex system](complex.html)
+- [complex system](comlex.html)
 
 ## Chapters
 - [Sarah Course Note](sarah.md)
