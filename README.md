@@ -1,12 +1,7 @@
-# DropShipping Knowledge Base for Canada
-## Complex
-- [complex system](comlex.html)
+# DropShipping Knowledge Base for Canada & World
 
-## Chapters
+## Course
 - [Sarah Course Note](sarah.md)
-
-## 加拿大的
-- [代购和团购与分销](daigou.md)
  
 ## Wholesale Channel
 - [AliExpress](https://www.aliexpress.com)
@@ -36,6 +31,7 @@
 - [Worldwide Brands](https://www.worldwidebrands.com)
 
 ## Desgin
+- [Storenvy](https://www.storenvy.com/)
 - [Quirky](https://quirky.com)
 - [款款网](https://www.ttkuan.com)
 -  [穿针引线网](https://www.eeff.net)
@@ -66,8 +62,6 @@
 - [Amz520 - Amazon Shopify SEO一站式跨境卖家网址导航](https://www.amz520.com)
 - [雨果网-跨境电商智能服务平台](https://www.cifnews.com)
 - [跨出去-跨境电商收款服务平台](https://www.kuachuqu.com)
-
-## Cool Tool
 - [Jungle Scout: Amazon Product Finder & Research Tool](https://www.junglescout.com)
 - [Jungle Market](https://market.junglescout.com)
 - [SaleHoo](https://www.salehoo.com)
@@ -76,7 +70,7 @@
 - [2019年 越来越火爆的Dropshipping模式](https://zhuanlan.zhihu.com/p/56614058)
 - [做Dropshipping 这些平台可以代替速卖通](https://zhuanlan.zhihu.com/p/95009306)
 
-## Platform for Canada
+## Platforms
 - [Amazon](https://sellercentral.amazon.ca)
 - [Shopify](https://shopify.ca)
 - [Wish](https://merchant.wish.com)
@@ -86,5 +80,9 @@
 - [Vova - Best Cheap Online Shopping Site](https://www.vova.com)
 - [Etsy - Shop for Handmade gift](https://www.etsy.com/CA)
 
+## Community
+- [代购和团购与分销](daigou.md)
+
 ## Developer
-- [Shopify ChangeLog](https://developers.shopify.com/changelog)
+- [Shopify Dev ChangeLog](https://developers.shopify.com/changelog)
+- [Shopify ChangeLog](https://changelog.shopify.com/)
