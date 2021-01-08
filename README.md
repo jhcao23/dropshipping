@@ -22,6 +22,9 @@
 - [BangGood](https://www.banggood.com)
 - [GearBest](https://www.gearbest.com)
 
+## Used
+- [红布林](https://www.aplum.com/)
+
 ## DropShipping Vendor
 - [Oberlo](https://www.oberlo.ca)
 - [Importify](https://www.importify.com)
